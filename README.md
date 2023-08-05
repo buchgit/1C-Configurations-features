@@ -1,5 +1,7 @@
 #Комплексная автоматизация <br/>
-<font size="6"> Функция ВыполнитьЗапрос(Знач HTTPЗапрос, Знач ИмяХоста)</font>
+<span style="color:green;font-weight:700;font-size:20px">
+    markdown color font styles
+</span>
 |Функция, метод|Расположение|Описание|
 |--:|--|--| 
 |<font size="6">Функция ВыполнитьЗапрос(Знач HTTPЗапрос, Знач ИмяХоста)</font>|о.м.GoogleПереводчик||
