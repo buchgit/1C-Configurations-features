@@ -1,7 +1,7 @@
 #Комплексная автоматизация <br/>
-<span style="color:green;font-weight:700;font-size:7 px">
-    markdown color font styles
-</span>
+
+<h6>markdown color font styles</h6>
+
 |Функция, метод|Расположение|Описание|
 |--:|--|--| 
 |<font size="6">Функция ВыполнитьЗапрос(Знач HTTPЗапрос, Знач ИмяХоста)</font>|о.м.GoogleПереводчик||
