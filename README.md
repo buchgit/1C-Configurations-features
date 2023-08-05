@@ -1,5 +1,5 @@
 #Комплексная автоматизация <br/>
-<span style="color:green;font-weight:700;font-size:7px">
+<span style="color:green;font-weight:700;font-size:7 px">
     markdown color font styles
 </span>
 |Функция, метод|Расположение|Описание|
